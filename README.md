@@ -6,7 +6,7 @@ g
 d
 
 g
-g.
+gS
 
 d
 dd
