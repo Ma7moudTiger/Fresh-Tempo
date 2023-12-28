@@ -6,7 +6,7 @@ g
 d
 g
 g
-g..g
+g..
 
 d
 dd
