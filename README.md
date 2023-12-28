@@ -15,5 +15,3 @@ Html,Css Practice
 
 
 
-d
-d
