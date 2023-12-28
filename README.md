@@ -9,7 +9,7 @@ g
 gS
 
 d
-dd
+d
 
 d
 dd
