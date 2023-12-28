@@ -17,7 +17,3 @@ Html,Css Practice
 
 d
 d
-
-d
-dss
-s
