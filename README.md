@@ -4,7 +4,7 @@ g
 gg
 g
 d
-g
+
 g
 g..
 
